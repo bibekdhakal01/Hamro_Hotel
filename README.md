@@ -1,22 +1,29 @@
-**# Hamro Hotel**
+**Hamro Hotel**
 
-A simple hotel website and order management system built with **PHP**, **HTML**, **CSS**, and **JavaScript**.
+A simple hotel website and order management system built with PHP, HTML, CSS, and JavaScript.
 
 This project provides basic hotel functionality including browsing food categories, user registration/login, food ordering, cart management, and contact support.
 
-**## 🚀 Features**
+**🚀 Features**
 
     ✔ Home page with featured foods  
+    
     ✔ User authentication (Sign Up / Login / Logout)  
+    
     ✔ Food categories and listings  
+    
     ✔ Add to cart & cart display  
+    
     ✔ Take and place orders  
+
     ✔ Contact form for customer messages  
+    
     ✔ Basic PHP & MySQL backend
 
-**## 📁 Project Structure
-**
+**📁 Project Structure**
+
       Hamro_Hotel/
+      
       ├── css/ # Stylesheets
       ├── img/ # Images for UI
       ├── js/ # JavaScript files
@@ -37,14 +44,14 @@ This project provides basic hotel functionality including browsing food categori
       ├── signup.php # Account creation
       └── Take_order.php # Order placement script
 
-**## 🛠 Tech Stack**
+**🛠 Tech Stack**
 
-    - **PHP** – server-side logic  
-    - **MySQL** – database backend  
-    - **HTML / CSS** – front‑end structure and styling  
-    - **JavaScript** – interactive behavior
+    PHP– server-side logic  
+    MySQL– database backend  
+    TML / CSS– front‑end structure and styling  
+    JavaScript– interactive behavior
 
-**## 📦 Requirements**
+**📦 Requirements**
 
 To run locally, ensure you have:
 
@@ -52,10 +59,10 @@ To run locally, ensure you have:
     ✔ MySQL or MariaDB  
     ✔ A local server environment (XAMPP, WAMP, MAMP, etc.)
 
-** 🧩 Installation
-**
+**🧩 Installation**
 
-**1. Clone the repository:**
+
+**Clone the repository:**
   
     git clone https://github.com/bibekdhakal01/Hamro_Hotel.git
     Move the folder into your web server directory (htdocs or www).
