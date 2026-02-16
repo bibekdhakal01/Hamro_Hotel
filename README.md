@@ -1,6 +1,5 @@
 **Hamro Hotel**
-A simple hotel website and order management system built with PHP, HTML, CSS, and JavaScript.
-This project provides basic hotel functionality including browsing food categories, user registration/login, food ordering, cart management, and contact support.
+A simple hotel website and order management system built with PHP, HTML, CSS, and JavaScript.This project provides basic hotel functionality including browsing food categories, user registration/login, food ordering, cart management, and contact support.
 
 **🚀 Features**
 
